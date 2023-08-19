@@ -24,9 +24,6 @@ Os interessados podem entrar em contato conosco através da seção de contato. 
 
 Aqui estão algumas capturas de tela do sistema para dar uma prévia visual:
 
-### Modalidade de Aula
-![Modalidade de Aula](/public/foto.jpg)
-
 ### Conheça Seu Professor
 ![Conheça Seu Professor](/public/conheca.jpg)
 
