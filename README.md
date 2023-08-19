@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+# Projeto de Venda de Aulas Particulares de Matemática e Física
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bem-vindo ao repositório do projeto de venda de aulas particulares de matemática! Este é um projeto desenvolvido em React para proporcionar uma plataforma onde alunos podem encontrar professores qualificados para aprimorar suas habilidades em matemática.
 
-## Available Scripts
+## Funcionalidades Principais
 
-In the project directory, you can run:
+### 1. Modalidade de Aula
 
-### `npm start`
+Na seção de modalidades de aula, os alunos podem explorar diferentes opções de cursos de matemática e física, desde álgebra até cálculo avançado. Cada modalidade apresenta informações detalhadas sobre o conteúdo do curso e os objetivos de aprendizado.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 2. Conheça Seu Professor
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+A seção "Conheça Seu Professor" permite que os alunos conheçam o professor especializado em matemática com uma breve biografia, áreas de especialização e experiência acadêmica.
 
-### `npm test`
+### 3. Depoimentos
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Nossa plataforma é apoiada por alunos satisfeitos! A seção de depoimentos exibe feedback e avaliações de estudantes que já participaram das aulas. Isso ajuda a construir confiança e credibilidade entre os visitantes em potencial.
 
-### `npm run build`
+### 4. Contato
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Os interessados podem entrar em contato conosco através da seção de contato. Aqui, os alunos podem preencher um formulário para fazer perguntas, solicitar mais informações sobre os cursos ou agendar uma aula experimental.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Telas do Sistema
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Aqui estão algumas capturas de tela do sistema para dar uma prévia visual:
 
-### `npm run eject`
+### Modalidade de Aula
+![Modalidade de Aula](/public/foto.jpg)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Conheça Seu Professor
+![Conheça Seu Professor](/public/conheca.jpg)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Depoimentos
+![Depoimentos](/public/depoimentos.jpg)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Como Contribuir
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Se você gostaria de contribuir para este projeto, siga as etapas abaixo:
 
-## Learn More
+1. Faça um fork deste repositório.
+2. Crie uma branch para sua nova funcionalidade (`git checkout -b nova-funcionalidade`).
+3. Faça suas alterações e faça commit delas (`git commit -am 'Adicionei uma nova funcionalidade'`).
+4. Faça um push para a branch (`git push origin nova-funcionalidade`).
+5. Abra um Pull Request para revisão.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Licença
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Este projeto está sob a Licença [Nome da Licença](url_da_licenca).
